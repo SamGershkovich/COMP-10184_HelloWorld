@@ -1,5 +1,10 @@
 #include <Arduino.h>
 
+/*
+  I, Sam Gershkovich, student number 000801766, certify that this material is my original work.
+  No other person’s work has been used without due acknowledgement and neither have I made my work available to anyone else.
+*/
+
 unsigned long myTime;
 
 void setup()
